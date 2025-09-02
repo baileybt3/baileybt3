@@ -16,7 +16,7 @@ Welcome to my portfolio! Here are some of my highlighted projects:
 ## 💻 Software & Tools
 - [ToDoList](https://github.com/baileybt3/ToDoList) – Simple C# task organizer 
 - [CareerQuest](https://github.com/baileybt3/CareerQuest) – C# job/project tracker
-- [Uncorrupt Image](https://github.com/baileybt3/uncorrupt-img.git) - C# image repairer
+- [Uncorrupt Image](https://github.com/baileybt3/uncorrupt-img.git) - Basic C# image repairer
  
 
 
