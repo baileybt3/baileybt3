@@ -10,7 +10,7 @@ Welcome to my portfolio! Here are some of my highlighted projects:
 
 ## 🤖 AI & Machine Learning
 - [RLCS Match Predictor](https://github.com/baileybt3/rocket-league-ml-classification) – Predicting Rocket League match outcomes  
-- [Hill Climber 8 Queens](https://github.com/baileybt3/CS-AI-Bots) – AI bots learn to play Counter Strike
+- [CS-AI-Bots](https://github.com/baileybt3/CS-AI-Bots) – AI bots learn to play Counter Strike
 
 
 ## 💻 Software & Tools
