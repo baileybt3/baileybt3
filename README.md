@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Brandon Bailey  
 
-<!--
-**baileybt3/baileybt3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my portfolio! Here are some of my highlighted projects:  
 
-Here are some ideas to get you started:
+## 🎮 Game Development
+- [Crossfire5k](https://github.com/baileybt3/CrossFire5K) – Capstone arena shooter  
+- [Counterfeit](https://github.com/baileybt3/Counterfeit) – Resource Management Game 
+- [Defcon: Outbreak](https://github.com/baileybt3/defcon-outbreak) – Zombie Survival Game
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🤖 AI & Machine Learning
+- [RLCS Match Predictor](https://github.com/baileybt3/rocket-league-ml-classification) – Predicting Rocket League match outcomes  
+- [Hill Climber 8 Queens](https://github.com/baileybt3/CS-AI-Bots) – AI bots learn to play Counter Strike
+
+
+## 💻 Software & Tools
+- [ToDoList](https://github.com/baileybt3/ToDoList) – Simple C# task organizer 
+- [CareerQuest](https://github.com/baileybt3/CareerQuest) – C# job/project tracker  
+ 
+
+
