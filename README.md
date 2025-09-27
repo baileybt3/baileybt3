@@ -15,7 +15,7 @@ Welcome to my portfolio! Here are some of my highlighted projects:
 
 ## 💻 Software & Tools
 - [ToDoList](https://github.com/baileybt3/ToDoList) – Simple C# task organizer 
-- [CareerQuest](https://github.com/baileybt3/CareerQuest) – C# job/project tracker
+- [SkillTimeTracker](https://github.com/baileybt3/SkillTimeTracker) – Skill Time Tracker in C#
 
  
 
