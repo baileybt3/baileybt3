@@ -2,20 +2,13 @@
 
 Welcome to my portfolio! Here are some of my highlighted projects:  
 
+## 💻 Software & Tools
+- [Poké Scout](https://github.com/baileybt3/poke-scout) - Pokémon Inventory Insights
+- [SkillTimeTracker](https://github.com/baileybt3/SkillTimeTracker) – Skill Time Tracker in C#
+  
 ## 🎮 Game Development
-- [Crossfire5k](https://github.com/baileybt3/CrossFire5K) – Capstone arena shooter
-- [Defcon: Outbreak](https://github.com/baileybt3/defcon-outbreak) – Zombie Survival Game
-- [Rocket League : Console Based](https://github.com/baileybt3/RocketLeague-ConsoleBased) - C# Practice Project
+- [Wargate : Cards to Combat](https://github.com/baileybt3/Wargate) - Personal Unity Project
+- [Crossfire5k](https://github.com/baileybt3/CrossFire5K) – Capstone Course, Arena Shooter
 
 ## 🤖 AI & Machine Learning
 - [RLCS Match Predictor](https://github.com/baileybt3/rocket-league-ml-classification) – Predicting Rocket League match outcomes  
-- [CS-AI-Bots](https://github.com/baileybt3/CS-AI-Bots) – AI bots learn to play Counter Strike
-
-
-## 💻 Software & Tools
-- [ToDoList](https://github.com/baileybt3/ToDoList) – Simple C# task organizer 
-- [SkillTimeTracker](https://github.com/baileybt3/SkillTimeTracker) – Skill Time Tracker in C#
-
- 
-
-
