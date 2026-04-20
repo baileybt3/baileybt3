@@ -7,7 +7,7 @@ Welcome to my portfolio! Here are some of my highlighted projects:
 - [SkillTimeTracker](https://github.com/baileybt3/SkillTimeTracker) – Skill Time Tracker in C#
   
 ## 🎮 Game Development
-- [Wargate : Cards to Combat](https://github.com/baileybt3/Wargate) - Personal Unity Project
+- [Wargate : Cards to Combat](https://github.com/baileybt3/wargate-cards-to-combat) - Personal Unity Project
 - [Crossfire5k](https://github.com/baileybt3/CrossFire5K) – Capstone Course, Arena Shooter
 
 ## 🤖 AI & Machine Learning
