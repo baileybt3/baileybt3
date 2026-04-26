@@ -12,6 +12,3 @@ Welcome to my portfolio! Here are some of my highlighted projects:
 
 ## 🤖 AI & Machine Learning
 - [RLCS Match Predictor](https://github.com/baileybt3/rocket-league-ml-classification) – Predicting Rocket League match outcomes  
-
-## 🏅 Certifications
-- [Microsoft Foundational C# Certification](https://github.com/baileybt3/cert-foundational-csharp)
