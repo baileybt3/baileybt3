@@ -10,4 +10,4 @@ Welcome to my portfolio! Here are some of my highlighted projects:
 - [Crossfire5k](https://github.com/baileybt3/CrossFire5K) – Capstone Course, Arena Shooter
 
 ## 🤖 AI & Machine Learning
-- [RLCS Match Predictor](https://github.com/baileybt3/rocket-league-ml-classification) – Predicting Rocket League match outcomes  
+- [RLCS Match Predictor](https://github.com/baileybt3/rocket-league-ml-classification) – ITCS 3156: Intro to ML - Final Project
