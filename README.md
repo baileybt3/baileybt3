@@ -3,7 +3,7 @@
 Welcome to my portfolio! Here are some of my highlighted projects:  
 
 ## 💻 Software & Tools
-- [Poké Scout](https://github.com/baileybt3/poke-scout) - Pokémon Inventory Insights
+- [Pocket Scout](https://github.com/baileybt3/pocket-scout) - Card Grading Insights
   
 ## 🎮 Game Development
 - [Wargate : Cards to Combat](https://github.com/baileybt3/wargate-cards-to-combat) - Personal Unity Project
